@@ -1,0 +1,12 @@
+dist/
+test/
+output/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.vscode
+.vim
+.DS_Store
+coverage.out
