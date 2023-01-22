@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/last-commit/f1zm0/utl?style=for-the-badge&logo=github&color=7174F2&logoColor=white&labelColor=2b2c33" style="max-width: 100%;">              
   </a>                                                                                                                                                                                        
 <a href="https://github.com/f1zm0/utl">                                                                                                                                                  
-    <img src="https://img.shields.io/github/license/f1zm0/utl?style=for-the-badge&color=9D8EF6&logo=bookstack&logoColor=white&labelColor=2b2c34" alt="project license">                  
+    <img src="https://img.shields.io/github/license/f1zm0/utl?style=for-the-badge&color=DA78ED&logo=bookstack&logoColor=white&labelColor=2b2c34" alt="project license">                  
 </a>                                                                                                                                                                                          
 </p>
 <p align="center">
